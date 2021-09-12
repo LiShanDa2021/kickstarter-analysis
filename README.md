@@ -11,6 +11,7 @@ As the charts above indicate, theater campaigns had a high likelihood of success
 According to this chart above, late/spring and summer are the best times to begin a crowdfunding campaign.
 
 ![Successful vs Failed Table](https://github.com/LiShanDa2021/kickstarter-analysis/blob/main/Screen%20Shot%202021-09-12%20at%202.14.03%20PM.png?raw=true)
+---
 From the above data, you can see that both the mean and median goals for failed fundraising campaigns for American plays were much higher than those of successful campaings. Furthermore, the data for the failed plays is skewed right indicatiing that there were outliers with very large goals.
 
 
@@ -23,6 +24,7 @@ According to the chart above, the data is skewed higher for both goals and pledg
 ## And just for fun, I tried to uncover trends in successful and failed Kickstarters for space exploration.
 
 ![Successful vs. Failed Space Kickstarters](https://github.com/LiShanDa2021/kickstarter-analysis/blob/main/Screen%20Shot%202021-09-12%20at%202.36.00%20PM.png?raw=true)
+---
 The dataset for the failed space Kickstarters was too small to do a real analysis. (It contained only two datapoints.) However, one of these failed campaigns had a wildly unrealistic goal as you can see from the table below.
 
 
